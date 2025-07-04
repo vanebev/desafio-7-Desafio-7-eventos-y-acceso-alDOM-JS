@@ -16,7 +16,6 @@ button {
   margin-top: 20px;
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
   justify-content: center;
 }
 
@@ -28,8 +27,8 @@ button {
   min-width: 60px;
   min-height: 40px;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
 }
 
 .caja span {
